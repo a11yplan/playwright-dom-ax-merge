@@ -1,15 +1,31 @@
-# Accessibility Analysis Challenge
+# DOM Data Merging Task
 
-Welcome! This is a coding challenge focused on creating a robust solution for analyzing webpage accessibility by merging multiple data sources.
+Welcome! This is a coding task focused on creating a robust solution for merging multiple data sources that represent different aspects of a webpage.
 
-## The Challenge
+## The Task
 
-Your task is to come up (and optionally implement) a solution that combines three different accessibility data sources into one:
+Your task is to design (and optionally implement) a solution that combines three different data sources into one:
 - DOM structure (from browser)
 - Accessibility tree (ARIA, roles, properties)
 - Automated accessibility test results
 
-The goal is to create a unified data structure that combines accessibility information from multiple sources into a single, consistent format for analysis.
+The goal is to create a unified data structure that combines information from multiple sources into a single, consistent format for analysis.
+
+## Time Guidance
+
+We suggest spending around 1.5 to 2 hours on this task. Here's a recommended breakdown:
+- 45-60 minutes on design and planning
+- Remaining time for implementation or detailed documentation
+
+Feel free to take more time if you'd like to explore additional features or edge cases.
+
+## Sample Code
+
+This repository includes sample code that demonstrates how to collect the required data. However, this is just one possible approach - feel free to:
+- Use this code as a starting point
+- Write your solution from scratch
+- Use different tools or libraries
+- Modify the data collection approach
 
 ## Getting Started
 
@@ -41,5 +57,6 @@ We want to see how you:
 - Think about how to handle missing or conflicting information
 - Document your key decisions
 - Feel free to provide a design-only solution with clear explanations
+- Prioritize core functionality
 
 Good luck! We're excited to see your solution, whether it's implemented code or a detailed design. 
