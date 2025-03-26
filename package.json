@@ -1,0 +1,15 @@
+{
+  "name": "dom-accessibility-analyzer",
+  "version": "1.0.0",
+  "description": "A tool for merging DOM, Accessibility, and Axe audit data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.8.2",
+    "playwright": "^1.42.1"
+  },
+  "license": "MIT"
+}
